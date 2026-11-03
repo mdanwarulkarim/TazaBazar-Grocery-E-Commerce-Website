@@ -1,0 +1,162 @@
+{
+  "colorScheme": "light",
+  "fonts": [
+    {
+      "family": "Arial",
+      "role": "body"
+    },
+    {
+      "family": "Segoe UI",
+      "role": "body"
+    },
+    {
+      "family": "Helvetica",
+      "role": "body"
+    },
+    {
+      "family": "Droid Sans",
+      "role": "body"
+    },
+    {
+      "family": "lucida grande",
+      "role": "body"
+    }
+  ],
+  "colors": {
+    "primary": "#7533CB",
+    "secondary": "#FF686E",
+    "accent": "#7F4CC1",
+    "background": "#FFFFFF",
+    "textPrimary": "#615E58",
+    "link": "#7F4CC1"
+  },
+  "typography": {
+    "fontFamilies": {
+      "primary": "Arial",
+      "heading": "Arial"
+    },
+    "fontStacks": {
+      "heading": [
+        "Segoe UI",
+        "Helvetica",
+        "Droid Sans",
+        "Arial",
+        "lucida grande",
+        "tahoma",
+        "verdana",
+        "sans-serif"
+      ],
+      "body": [
+        "Segoe UI",
+        "Helvetica",
+        "Droid Sans",
+        "Arial",
+        "lucida grande",
+        "tahoma",
+        "verdana",
+        "sans-serif"
+      ],
+      "paragraph": [
+        "Segoe UI",
+        "Helvetica",
+        "Droid Sans",
+        "Arial",
+        "lucida grande",
+        "tahoma",
+        "verdana",
+        "sans-serif"
+      ]
+    },
+    "fontSizes": {
+      "h1": "12px",
+      "h2": "12px",
+      "body": "12px"
+    }
+  },
+  "spacing": {
+    "baseUnit": 4,
+    "borderRadius": "8px"
+  },
+  "components": {
+    "input": {
+      "background": "#FFFFFF",
+      "textColor": "#949494",
+      "borderColor": "#E5E5E5",
+      "borderRadius": "12px",
+      "borderRadiusCorners": {
+        "topLeft": "12px",
+        "topRight": "12px",
+        "bottomRight": "12px",
+        "bottomLeft": "12px"
+      },
+      "shadow": "none"
+    },
+    "buttonPrimary": {
+      "background": "#7F4CC1",
+      "textColor": "#FFFFFF",
+      "borderRadius": "5px",
+      "borderRadiusCorners": {
+        "topLeft": "5px",
+        "topRight": "5px",
+        "bottomRight": "5px",
+        "bottomLeft": "5px"
+      },
+      "shadow": "none"
+    }
+  },
+  "images": {
+    "logo": "File saved at: attached_assets/logo.svg",
+    "favicon": "File saved at: attached_assets/favicon.png",
+    "ogImage": "https://i.chaldn.com/_mpimage/popular?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D95790&q=best&v=1",
+    "logoHref": "File saved at: attached_assets/logoHref.html"
+  },
+  "__llm_logo_reasoning": {
+    "selectedIndex": 3,
+    "reasoning": "Selected #3 because it is visible, medium-sized, located at the top, and links to the homepage, matching the brand inferred from the URL and page title.",
+    "confidence": 0.95,
+    "source": "llm"
+  },
+  "__llm_button_reasoning": {
+    "primary": {
+      "index": 0,
+      "text": "Login",
+      "reasoning": "The button with text 'Login' has a vibrant brand color background (#7F4CC1), making it the primary call-to-action."
+    },
+    "secondary": {
+      "index": -1,
+      "text": "N/A",
+      "reasoning": "There is only one button detected, so no secondary button can be selected."
+    },
+    "confidence": 0.9
+  },
+  "personality": {
+    "tone": "modern",
+    "energy": "medium",
+    "targetAudience": "urban consumers in Bangladesh"
+  },
+  "designSystem": {
+    "framework": "custom",
+    "componentLibrary": ""
+  },
+  "confidence": {
+    "buttons": 0.9,
+    "colors": 0.95,
+    "overall": 0.925
+  },
+  "__llm_metadata": {
+    "logoSelection": {
+      "llmCalled": true,
+      "llmSucceeded": true,
+      "finalSource": "llm",
+      "rawLogoSelection": {
+        "selectedLogoIndex": 3,
+        "selectedLogoReasoning": "Selected #3 because it is visible, medium-sized, located at the top, and links to the homepage, matching the brand inferred from the URL and page title.",
+        "confidence": 0.95
+      }
+    },
+    "buttonClassification": {
+      "llmCalled": true,
+      "llmSucceeded": true
+    }
+  }
+}
