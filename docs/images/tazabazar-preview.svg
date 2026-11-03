@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" fill="#253529">
+  <defs>
+    <linearGradient id="hero" x1="140" y1="170" x2="1050" y2="410" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E9F8E9"/>
+      <stop offset="1" stop-color="#C9F0D1"/>
+    </linearGradient>
+    <linearGradient id="logo" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#24A148"/>
+      <stop offset="1" stop-color="#15803D"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="5" stdDeviation="9" flood-color="#193522" flood-opacity=".08"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="680" rx="26" fill="#F7FAF7"/>
+  <rect x="1" y="1" width="1198" height="678" rx="25" fill="none" stroke="#E3ECE4" stroke-width="2"/>
+
+  <rect x="1" y="1" width="1198" height="82" rx="25" fill="#fff"/>
+  <path d="M1 58h1198v25H1z" fill="#fff"/>
+  <rect x="36" y="20" width="44" height="44" rx="14" fill="url(#logo)"/>
+  <path d="M49 32h17l-2 23H51l-2-23Zm3-2a5.5 5.5 0 0 1 11 0" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="92" y="50" fill="#173B22" font-family="Arial, sans-serif" font-size="26" font-weight="700">TazaBazar</text>
+  <rect x="315" y="18" width="565" height="48" rx="14" fill="#F6F8F6" stroke="#E5EBE5"/>
+  <circle cx="341" cy="40" r="8" stroke="#829087" stroke-width="2"/>
+  <path d="m347 46 6 6" stroke="#829087" stroke-width="2" stroke-linecap="round"/>
+  <text x="366" y="46" fill="#8A958D" font-family="Arial, sans-serif" font-size="15">Search for products (e.g. rice, eggs, soap)</text>
+  <text x="930" y="48" fill="#19883A" font-family="Arial, sans-serif" font-size="15" font-weight="700">EN</text>
+  <text x="970" y="48" fill="#647067" font-family="Arial, sans-serif" font-size="15">বাং</text>
+  <rect x="1045" y="19" width="120" height="45" rx="12" fill="#238D43"/>
+  <text x="1081" y="47" fill="#fff" font-family="Arial, sans-serif" font-size="15" font-weight="600">My Cart</text>
+
+  <rect x="32" y="108" width="1136" height="222" rx="22" fill="url(#hero)"/>
+  <circle cx="1030" cy="218" r="118" fill="#B3E5BF" opacity=".56"/>
+  <circle cx="1030" cy="218" r="83" fill="#8DCF9D" opacity=".72"/>
+  <path d="M979 224h104l-10 67h-84l-10-67Zm19-13a33 33 0 0 1 66 0" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m1011 248 19 18 35-39" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="76" y="164" fill="#238D43" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.2">FRESH GROCERIES, DELIVERED FAST</text>
+  <text x="76" y="211" fill="#173B22" font-family="Arial, sans-serif" font-size="38" font-weight="700">Your daily essentials,</text>
+  <text x="76" y="255" fill="#173B22" font-family="Arial, sans-serif" font-size="38" font-weight="700">fresh to your door.</text>
+  <text x="78" y="287" fill="#57715D" font-family="Arial, sans-serif" font-size="16">Shop everyday favorites from your neighborhood grocery store.</text>
+  <rect x="76" y="301" width="128" height="44" rx="13" fill="#238D43"/>
+  <text x="99" y="329" fill="#fff" font-family="Arial, sans-serif" font-size="15" font-weight="600">Shop now</text>
+
+  <text x="40" y="383" fill="#1C3021" font-family="Arial, sans-serif" font-size="21" font-weight="700">Shop by category</text>
+  <text x="1071" y="382" fill="#238D43" font-family="Arial, sans-serif" font-size="14" font-weight="600">View all →</text>
+
+  <g filter="url(#shadow)">
+    <rect x="32" y="404" width="270" height="104" rx="18" fill="#fff"/>
+    <rect x="319" y="404" width="270" height="104" rx="18" fill="#fff"/>
+    <rect x="606" y="404" width="270" height="104" rx="18" fill="#fff"/>
+    <rect x="893" y="404" width="275" height="104" rx="18" fill="#fff"/>
+  </g>
+  <circle cx="91" cy="455" r="30" fill="#FFF1D8"/>
+  <text x="67" y="465" font-family="Arial, sans-serif" font-size="29">🥬</text>
+  <text x="136" y="452" fill="#26372A" font-family="Arial, sans-serif" font-size="16" font-weight="600">Fresh produce</text>
+  <text x="136" y="476" fill="#839087" font-family="Arial, sans-serif" font-size="13">Fruit &amp; vegetables</text>
+
+  <circle cx="378" cy="455" r="30" fill="#FCE8E6"/>
+  <text x="354" y="465" font-family="Arial, sans-serif" font-size="29">🥛</text>
+  <text x="423" y="452" fill="#26372A" font-family="Arial, sans-serif" font-size="16" font-weight="600">Dairy &amp; eggs</text>
+  <text x="423" y="476" fill="#839087" font-family="Arial, sans-serif" font-size="13">Everyday essentials</text>
+
+  <circle cx="665" cy="455" r="30" fill="#E8F0FE"/>
+  <text x="641" y="465" font-family="Arial, sans-serif" font-size="29">🍞</text>
+  <text x="710" y="452" fill="#26372A" font-family="Arial, sans-serif" font-size="16" font-weight="600">Bakery</text>
+  <text x="710" y="476" fill="#839087" font-family="Arial, sans-serif" font-size="13">Baked fresh daily</text>
+
+  <circle cx="952" cy="455" r="30" fill="#F1EAFE"/>
+  <text x="928" y="465" font-family="Arial, sans-serif" font-size="29">🧼</text>
+  <text x="997" y="452" fill="#26372A" font-family="Arial, sans-serif" font-size="16" font-weight="600">Home &amp; care</text>
+  <text x="997" y="476" fill="#839087" font-family="Arial, sans-serif" font-size="13">Household favorites</text>
+
+  <text x="40" y="555" fill="#1C3021" font-family="Arial, sans-serif" font-size="21" font-weight="700">Popular right now</text>
+  <text x="1083" y="555" fill="#238D43" font-family="Arial, sans-serif" font-size="14" font-weight="600">See products →</text>
+  <g filter="url(#shadow)">
+    <rect x="32" y="574" width="270" height="76" rx="16" fill="#fff"/>
+    <rect x="319" y="574" width="270" height="76" rx="16" fill="#fff"/>
+    <rect x="606" y="574" width="270" height="76" rx="16" fill="#fff"/>
+    <rect x="893" y="574" width="275" height="76" rx="16" fill="#fff"/>
+  </g>
+  <circle cx="76" cy="612" r="23" fill="#EFF8EF"/>
+  <text x="58" y="621" font-family="Arial, sans-serif" font-size="24">🍅</text>
+  <text x="112" y="608" fill="#27382A" font-family="Arial, sans-serif" font-size="14" font-weight="600">Fresh tomatoes</text>
+  <text x="112" y="630" fill="#238D43" font-family="Arial, sans-serif" font-size="13">Picked for your table</text>
+  <circle cx="363" cy="612" r="23" fill="#FFF5E5"/>
+  <text x="345" y="621" font-family="Arial, sans-serif" font-size="24">🍌</text>
+  <text x="399" y="608" fill="#27382A" font-family="Arial, sans-serif" font-size="14" font-weight="600">Sweet bananas</text>
+  <text x="399" y="630" fill="#238D43" font-family="Arial, sans-serif" font-size="13">A family favorite</text>
+  <circle cx="650" cy="612" r="23" fill="#F6EFE8"/>
+  <text x="632" y="621" font-family="Arial, sans-serif" font-size="24">🥚</text>
+  <text x="686" y="608" fill="#27382A" font-family="Arial, sans-serif" font-size="14" font-weight="600">Farm fresh eggs</text>
+  <text x="686" y="630" fill="#238D43" font-family="Arial, sans-serif" font-size="13">A daily essential</text>
+  <circle cx="937" cy="612" r="23" fill="#FCEDEA"/>
+  <text x="919" y="621" font-family="Arial, sans-serif" font-size="24">🍓</text>
+  <text x="973" y="608" fill="#27382A" font-family="Arial, sans-serif" font-size="14" font-weight="600">Seasonal fruit</text>
+  <text x="973" y="630" fill="#238D43" font-family="Arial, sans-serif" font-size="13">Fresh picks this week</text>
+</svg>
